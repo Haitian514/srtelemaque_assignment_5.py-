@@ -17,7 +17,6 @@
 
 ## AI Assistance
 - Used AI for:
-  - Clarifying loop selection rationale
+  -Teaching/Clarifying certain loops and concepts like ranges
   - Debugging formatting and spacing
-  - Structuring README and commit messages
-- All core logic written and understood by student.
+  - Assisting with README
