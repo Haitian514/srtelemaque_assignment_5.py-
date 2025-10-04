@@ -17,7 +17,6 @@
 
 ## AI Assistance
 - Used AI for:
-
   -Teaching/Clarifying certain loops and concepts like ranges
   - Debugging formatting and spacing
   - Assisting with README
